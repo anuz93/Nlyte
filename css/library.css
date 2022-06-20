@@ -1,0 +1,59 @@
+﻿*{
+    font-family: Verdana;
+    background-color: rgb(237, 223, 223);
+}
+
+h3{
+    margin-top:20px;
+    margin-left:20px;
+}
+
+.books{
+    display: flex;
+    list-style: none;
+}
+
+.book{
+    margin: 20px;
+    cursor: pointer;
+}
+
+input{   
+     padding-left: 15px;
+     height: 30px;
+     width: 250px;
+     border: 1px solid;
+     position: relative;
+     border-radius: 50px;
+}
+
+button{
+    margin:10px;
+    border-radius: 30px;
+}
+
+.search{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    margin-top: 20px;
+    width: 30%;
+}
+
+
+
+
+
+
+
+
+
